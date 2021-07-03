@@ -913,6 +913,8 @@ h4 {
     h6,
     p,
     #disqus_thread {
+        margin-bottom: 20px;
+        margin-top: 20px;
         padding-left: 10px!important;
         padding-right: 10px!important;
     }
