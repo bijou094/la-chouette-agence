@@ -1,9 +1,7 @@
-( compresser du texte, JavaScript, HTML, CSS ou XML)
 SetOutputFilter DEFLATE
 AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/x-javascript
 
 
-(la compatibilité avec les anciens navigateurs)
 BrowserMatch ^Mozilla/4 gzip-only-text/html
 BrowserMatch ^Mozilla/4\.0[678] no-gzip
 BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
