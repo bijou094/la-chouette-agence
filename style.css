@@ -196,6 +196,8 @@ a:hover {
 .d-bloc .panel,
 .l-bloc {
     color: rgba(0, 0, 0, .5);
+    font-size: 18px;
+    line-height: 2.5;
 }
 
 .d-bloc .panel button:hover,
