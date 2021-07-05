@@ -651,6 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
+    font-size: 16px;
     color: hsla(200,0%,0%,.7)!important
     
 }
